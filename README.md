@@ -7,3 +7,5 @@ just tools
 * [百度音乐播放内核](http://labs.music.baidu.com/muplayer/doc/)
 * [Swagger](https://helloreverb.com/developers/swagger)
 * [RAP](http://thx.alibaba-inc.com/RAP/)
+* [datetimepicker](http://xdsoft.net/jqplugins/datetimepicker/)
+
