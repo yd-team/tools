@@ -8,4 +8,5 @@ just tools
 * [Swagger](https://helloreverb.com/developers/swagger)
 * [RAP](http://thx.alibaba-inc.com/RAP/)
 * [datetimepicker](http://xdsoft.net/jqplugins/datetimepicker/)
+* [反编译js](http://www.jsnice.org/)
 
