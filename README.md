@@ -9,4 +9,5 @@ just tools
 * [RAP](http://thx.alibaba-inc.com/RAP/)
 * [datetimepicker](http://xdsoft.net/jqplugins/datetimepicker/)
 * [反编译js](http://www.jsnice.org/)
+* [FuckAdBlock](https://github.com/sitexw/FuckAdBlock)
 
